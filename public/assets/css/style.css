@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(172, 168, 206);
+    padding-top: 70px;
+}
+
+#jumbotron{
+    background-image:url("/assets/images/background.jpeg");
+    background-size: cover;
+    height: 250px;
+    margin-top: 20px;
+}
+
+.deleteNote {
+	display: inline-block;
+}
+
+.previousNotes {
+    display: inline-block;
+    width: 90%
+}
+
+#scrape {
+    margin: 8px 0px;
+    
+}
